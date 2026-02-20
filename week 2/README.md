@@ -75,9 +75,9 @@ Screenshots of notebook outputs will be stored in the `screenshots/` folder with
 
 | Activity | Screenshot |
 |----------|------------|
-| List Operations Output | ![List Output](screenshots/list_output.png) |
-| Tuple Output | ![Tuple Output](screenshots/tuple_output.png) |
-| Dictionary Keys & Values Output | ![Dictionary Output](screenshots/dictionary_output.png) |
+| List Operations Output | ![List Output](https://github.com/RxRuqayyah/DS-ML-Labs/blob/main/week%202/screenshots/Screenshot%201.png) |
+| Tuple Output | ![Tuple Output](https://github.com/RxRuqayyah/DS-ML-Labs/blob/main/week%202/screenshots/Screenshot%203.png) |
+| Dictionary Keys & Values Output | ![Dictionary Output](https://github.com/RxRuqayyah/DS-ML-Labs/blob/main/week%202/screenshots/Screenshot%205.png) |
 
 ---
 
